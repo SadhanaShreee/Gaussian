@@ -15,7 +15,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 5. End the program
 
 ## Program:
-#Program to solve a matrix using Gaussian elimination without partial pivoting.
+Program to solve a matrix using Gaussian elimination without partial pivoting.
                                    
                                    #Developed by: SADHANA SHREE B
                                    #RegisterNumber: 212223230177
